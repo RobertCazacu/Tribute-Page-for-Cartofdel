@@ -1,0 +1,26 @@
+
+  
+img {
+    display:block;
+  }
+  #image {
+    max-width:100%;
+    height:auto;
+    margin:auto;
+  }
+  figcaption{
+  text-align:center;
+  font-style:italic;
+  }
+  
+  #tribute-info {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  #para1 {
+    width: 100%;
+  }
+  
